@@ -14,4 +14,11 @@ This repository contains a project done for Computational Thinking with Algorith
 
 ### BENCHMARK REPORT
 
+![](https://github.com/AnteDujic/Computational-Thinking-with-Algorithms/blob/main/Images/table.png)
+
+![](https://github.com/AnteDujic/Computational-Thinking-with-Algorithms/blob/main/Images/Running%20time_All.png)
+
+![](https://github.com/AnteDujic/Computational-Thinking-with-Algorithms/blob/main/Images/Running%20time_MQC.png)
+
+
 Full benchmark report can be seen on the following link: https://github.com/AnteDujic/Computational-Thinking-with-Algorithms/blob/main/Benchmark%20Report.pdf.
